@@ -1,0 +1,1014 @@
+{
+    "product_list":[
+       {
+          "id":0,
+          "product_name":"Solar cell Mitsuyama 20w",
+          "type":"Solar Panel",
+          "merk":"polycrystalline",
+          "price":"Rp160.000",
+          "product_url":"https://shopee.co.id/product/55668318/7737803106?smtt=0.274452124-1650848213.3",
+          "image":"https://cf.shopee.co.id/file/7668e446cc4a5a10983d22049d60abb8",
+          "current_type":"ALL"
+       },
+       {
+          "id":1,
+          "product_name":"Solar panel 150w",
+          "type":"Solar Panel",
+          "merk":"monocrystalline",
+          "price":"Rp900.000",
+          "product_url":"https://shopee.co.id/product/55668318/13226940879?smtt=0.274452124-1650848393.3",
+          "image":"https://cf.shopee.co.id/file/227d3680498aecbded7e65778f7522ee",
+          "current_type":"ALL"
+       },
+       {
+          "id":2,
+          "product_name":"Solar panel 100w",
+          "type":"Solar Panel",
+          "merk":"polycrystalline",
+          "price":"Rp680.000",
+          "product_url":"https://shopee.co.id/product/55668318/9302864048?smtt=0.274452124-1650848481.3",
+          "image":"https://cf.shopee.co.id/file/571f61bbc794c9b6a16dd0ff3ec6116f",
+          "current_type":"ALL"
+       },
+       {
+          "id":3,
+          "product_name":"Luby solar panel 100w",
+          "type":"Solar Panel",
+          "merk":"polycrystalline",
+          "price":"Rp670.000",
+          "product_url":"https://shopee.co.id/product/55668318/10435158977?smtt=0.274452124-1650848648.3",
+          "image":"https://cf.shopee.co.id/file/f3ba408e0597ed80e816d2e13f294d11",
+          "current_type":"ALL"
+       },
+       {
+          "id":4,
+          "product_name":"Luby solar panel 50w",
+          "type":"Solar Panel",
+          "merk":"polycrystalline",
+          "price":"Rp400.000",
+          "product_url":"https://shopee.co.id/product/55668318/8364868216?smtt=0.274452124-1650848887.3",
+          "image":"https://cf.shopee.co.id/file/b78dc81d8d7f5c05591954a27483d6be",
+          "current_type":"ALL"
+       },
+       {
+          "id":5,
+          "product_name":"Solar cell Shinyoku 50w",
+          "type":"Solar Panel",
+          "merk":"polycrystalline",
+          "price":"Rp621.500",
+          "product_url":"https://tokopedia.link/yQ7ZBnqbvpb",
+          "image":"https://images.tokopedia.net/img/cache/500-square/product-1/2016/10/1/860765/860765_c263b649-e56e-4753-b1ea-e8c30e735b79.jpg",
+          "current_type":"ALL"
+       },
+       {
+          "id":6,
+          "product_name":"Solar cell Shinyoku 100w",
+          "type":"Solar Panel",
+          "merk":"polycrystalline",
+          "price":"Rp1.235.500",
+          "product_url":"https://tokopedia.link/Xvarhqzbvpb",
+          "image":"https://images.tokopedia.net/img/cache/700/product-1/2016/2/12/860765/860765_12279776-f58c-4aa0-a546-a98c5c11a201.jpg.webp?ect=4g",
+          "current_type":"ALL"
+       },
+       {
+          "id":7,
+          "product_name":"Solar cell Shinyoku 20w",
+          "type":"Solar Panel",
+          "merk":"polycrystalline",
+          "price":"Rp275.000",
+          "product_url":"https://tokopedia.link/3b6hahIbvpb",
+          "image":"https://images.tokopedia.net/img/cache/700/product-1/2015/9/27/540583/540583_ce99a323-c85e-4287-8b06-229eb068fc3e.jpg.webp?ect=4g",
+          "current_type":"ALL"
+       },
+       {
+          "id":8,
+          "product_name":"Kenika solar panel 200w",
+          "type":"Solar Panel",
+          "merk":"monocrystalline",
+          "price":"Rp1.300.000",
+          "product_url":"https://shopee.co.id/product/199214425/5507005369?smtt=0.274452124-1650850820.3",
+          "image":"https://cf.shopee.co.id/file/79457f5726435a370781d107d73f31ca",
+          "current_type":"ALL"
+       },
+       {
+          "id":9,
+          "product_name":"Sunny solar cell 200w",
+          "type":"Solar Panel",
+          "merk":"monocrystalline",
+          "price":"Rp2.200.000",
+          "product_url":"https://panelsuryajakarta.com/jual-panel-surya-200-wp-monocrystalline/",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":10,
+          "product_name":"Panel surya Solarland 100W",
+          "type":"Solar Panel",
+          "merk":"monocrystalline",
+          "price":"Rp1.550.000",
+          "product_url":"https://panelsuryajakarta.com/panel-surya-100wp-monocrystalline-solarland/",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":11,
+          "product_name":"Panel surya Solarland 100W",
+          "type":"Solar Panel",
+          "merk":"polycrystalline",
+          "price":"Rp1.450.000",
+          "product_url":"https://panelsuryajakarta.com/panel-surya-100wp-polycrystalline-solarland/",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":12,
+          "product_name":"Panel surya Solarland 200W",
+          "type":"Solar Panel",
+          "merk":"polycrystalline",
+          "price":"Rp. 2.900.000",
+          "product_url":"https://panelsuryajakarta.com/panel-surya-200wp-polycrystalline-solarland/",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":13,
+          "product_name":"Panel surya Solarland 200W",
+          "type":"Solar Panel",
+          "merk":"monocrystalline",
+          "price":"Rp3.100.000",
+          "product_url":"https://panelsuryajakarta.com/panel-surya-200wp-monocrystalline-solarland/",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":14,
+          "product_name":"Panel surya Suoer 300W",
+          "type":"Solar Panel",
+          "merk":"monocrystalline",
+          "price":"Rp2.800.000",
+          "product_url":"https://shopee.co.id/product/21026630/6715667623?smtt=0.274452124-1650949323.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":15,
+          "product_name":"Panel surya Solarland 300W",
+          "type":"Solar Panel",
+          "merk":"monocrystalline",
+          "price":"Rp4.650.000",
+          "product_url":"https://panelsuryajakarta.com/panel-surya-300wp-monocrystalline-solarland/",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":16,
+          "product_name":"STEC Solar Charge Controller PWM 10A 12/24V",
+          "type":"SCC",
+          "merk":"STEC",
+          "price":"Rp170.000",
+          "product_url":"https://shopee.co.id/product/583514287/16653473835?smtt=0.274452124-1650855345.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":17,
+          "product_name":"STEC Solar Charge Controller PWM / BCR 20A 12/24V",
+          "type":"SCC",
+          "merk":"STEC",
+          "price":"Rp258.000",
+          "product_url":"https://shopee.co.id/product/239303807/15777959348?smtt=0.274452124-1650855522.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":18,
+          "product_name":"STEC Solar Charge Controller MPPT 20A 12/24V",
+          "type":"SCC",
+          "merk":"STEC",
+          "price":"Rp485.000",
+          "product_url":"https://shopee.co.id/product/288213837/10009936322?smtt=0.274452124-1650855648.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":19,
+          "product_name":"PWM 10A Epever VS1024AU Solar Charge Controller",
+          "type":"SCC",
+          "merk":"Epever",
+          "price":"Rp349.000",
+          "product_url":"https://shopee.co.id/product/288213837/9852001333?smtt=0.274452124-1650855960.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":20,
+          "product_name":"Epever Tracer 2210AN SCC MPPT Auto 12/24V",
+          "type":"SCC",
+          "merk":"Epever",
+          "price":"Rp928.000",
+          "product_url":"https://shopee.co.id/product/288213837/3045406744?smtt=0.274452124-1650856093.9",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":21,
+          "product_name":"Epever XTRA 4210N 40A SCC MPPT",
+          "type":"SCC",
+          "merk":"Epever",
+          "price":"Rp1.650.000",
+          "product_url":"https://shopee.co.id/product/288213837/10939642402?smtt=0.274452124-1650856229.9",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":22,
+          "product_name":"SCC 20A Landstar LS2024R 12/24V",
+          "type":"SCC",
+          "merk":"Epever",
+          "price":"Rp450.000",
+          "product_url":"https://shopee.co.id/product/288213837/4888891457?smtt=0.274452124-1650856478.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":23,
+          "product_name":"Kenika SC-CMB2410 10A SCC 12/24V",
+          "type":"SCC",
+          "merk":"Kenika",
+          "price":"Rp120.000",
+          "product_url":"https://shopee.co.id/product/215364038/12011031181?smtt=0.274452124-1650857452.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":24,
+          "product_name":"Kenika 50048 SCC PWM 50A Auto 12/24/48V",
+          "type":"SCC",
+          "merk":"Kenika",
+          "price":"Rp325.000",
+          "product_url":"https://shopee.co.id/product/132320476/4542173355?smtt=0.274452124-1650856703.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":25,
+          "product_name":"Kenika SCR6048 60A SCC MPPT 12/24/48V",
+          "type":"SCC",
+          "merk":"Kenika",
+          "price":"Rp1.450.000",
+          "product_url":"https://shopee.co.id/product/367588954/15338414016?smtt=0.274452124-1650857029.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":26,
+          "product_name":"Suoer Solar Charge Controller MPPT 20A",
+          "type":"SCC",
+          "merk":"Suoer",
+          "price":"Rp2.080.000",
+          "product_url":"https://tokopedia.link/fCmQpU86wpb",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":27,
+          "product_name":"Controller Charger PWM 12V 10A ST-F1210",
+          "type":"SCC",
+          "merk":"Suoer",
+          "price":"Rp150.000",
+          "product_url":"https://tokopedia.link/pvTLmGU6wpb",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":28,
+          "product_name":"Suoer Controller Charger MPPT 30A",
+          "type":"SCC",
+          "merk":"Suoer",
+          "price":"Rp3.750.000",
+          "product_url":"https://tokopedia.link/kjODoum7wpb",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":29,
+          "product_name":"Inverter PSW + Display FPC-D1500A Suoer 12V 1500W",
+          "type":"INVERTER",
+          "merk":"Suoer",
+          "price":"Rp3.100.000",
+          "product_url":"https://tokopedia.link/urwq7g87wpb",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":30,
+          "product_name":"Inverter Pure Sine Wave Suoer FPC-500AL 12V 500W",
+          "type":"INVERTER",
+          "merk":"Suoer",
+          "price":"Rp990.000",
+          "product_url":"https://shopee.co.id/product/52510956/8202854262?smtt=0.274452124-1650948806.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":31,
+          "product_name":"Power Inverter PSW 3000W + Charger FFU3000 30A 24V",
+          "type":"INVERTER",
+          "merk":"Suoer",
+          "price":"Rp5.500.000",
+          "product_url":"https://tokopedia.link/o2GQW4l8wpb",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":32,
+          "product_name":"Power Inverter PSW 4000W 12V PSW FPC-D4000A",
+          "type":"INVERTER",
+          "merk":"Suoer",
+          "price":"Rp8.500.000",
+          "product_url":"https://tokopedia.link/vZhrn7sCzpb",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":33,
+          "product_name":"Power Inverter MS-INV600WN 600W 12V",
+          "type":"INVERTER",
+          "merk":"Mitsuyama",
+          "price":"Rp950.000",
+          "product_url":"https://tokopedia.link/ZlldLUp9wpb",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":34,
+          "product_name":"Power Inverter MS-INV3000W 12V",
+          "type":"INVERTER",
+          "merk":"Mitsuyama",
+          "price":"Rp640.000",
+          "product_url":"https://tokopedia.link/aIz1V9cCzpb",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":35,
+          "product_name":"Power Inverter Sunpro PI-10 1000W 12V",
+          "type":"INVERTER",
+          "merk":"Sunpro",
+          "price":"Rp315.000",
+          "product_url":"https://shopee.co.id/product/131351571/8793423357?smtt=0.274452124-1651078525.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":36,
+          "product_name":"Power Inverter Sunpro PI-05 500W 12V",
+          "type":"INVERTER",
+          "merk":"Sunpro",
+          "price":"Rp220.000",
+          "product_url":"https://tokopedia.link/U7m6ewZAzpb",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":37,
+          "product_name":"Power Inverter Sunpro PI-15 1500W 12V",
+          "type":"INVERTER",
+          "merk":"Sunpro",
+          "price":"Rp375.000",
+          "product_url":"https://tokopedia.link/eOwqMbaBzpb",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":38,
+          "product_name":"Power Inverter Tesla 1000W",
+          "type":"INVERTER",
+          "merk":"Tesla",
+          "price":"Rp388.000",
+          "product_url":"https://shopee.co.id/product/225198900/15534354652?smtt=0.274452124-1651078868.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":39,
+          "product_name":"Power Inverter Tesla 2000W",
+          "type":"INVERTER",
+          "merk":"Tesla",
+          "price":"Rp587.000",
+          "product_url":"https://tokopedia.link/4WfcEM8Czpb",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":40,
+          "product_name":"Power Inverter Kenika KCT-2K24 PSW 2000W 24V",
+          "type":"INVERTER",
+          "merk":"Kenika",
+          "price":"Rp3.550.000",
+          "product_url":"https://shopee.co.id/product/199214425/13835018165?smtt=0.274452124-1651081418.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":41,
+          "product_name":"Power Inverter Kenika KCT-3K24 PSW 3000W 24V",
+          "type":"INVERTER",
+          "merk":"Kenika",
+          "price":"Rp4.250.000",
+          "product_url":"https://shopee.co.id/product/199214425/10347043912?smtt=0.274452124-1651081532.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":42,
+          "product_name":"Power Inverter Kenika KCT-6K48 PSW 6000W 48V",
+          "type":"INVERTER",
+          "merk":"Kenika",
+          "price":"Rp5.750.000",
+          "product_url":"https://shopee.co.id/product/199214425/13235031623?smtt=0.274452124-1651081625.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":43,
+          "product_name":"Power Inverter STEC STC DC to AC 1000W 12V",
+          "type":"INVERTER",
+          "merk":"STEC",
+          "price":"Rp320.000",
+          "product_url":"https://shopee.co.id/product/288213837/9951961507?smtt=0.274452124-1651081805.3",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":44,
+          "product_name":"Schneider Electric NEW DOMAE MCB 32A 1P - DOMF01132",
+          "type":"MCB AC",
+          "merk":"Schneider",
+          "price":"Rp96.800",
+          "product_url":"https://shopee.co.id/product/298322876/4754264473?smtt=0.274452124-1651082108.3",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":45,
+          "product_name":"Schneider Electric NEW DOMAE MCB 25A 1P - DOMF01125",
+          "type":"MCB AC",
+          "merk":"Schneider",
+          "price":"Rp92.400",
+          "product_url":"https://shopee.co.id/product/298322876/5554261280?smtt=0.274452124-1651082241.3",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":46,
+          "product_name":"Schneider Electric NEW DOMAE MCB 16A 1P - DOMF01116",
+          "type":"MCB AC",
+          "merk":"Schneider",
+          "price":"Rp83.050",
+          "product_url":"https://shopee.co.id/product/298322876/5754261227?smtt=0.274452124-1651082358.3",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":47,
+          "product_name":"Schneider Electric NEW DOMAE MCB 10A 1P - DOMF01110",
+          "type":"MCB AC",
+          "merk":"Schneider",
+          "price":"Rp83.050",
+          "product_url":"https://shopee.co.id/product/298322876/5654261240?smtt=0.274452124-1651082478.3",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":48,
+          "product_name":"Schneider Electric NEW DOMAE MCB 6A 1P - DOMF01106",
+          "type":"MCB AC",
+          "merk":"Schneider",
+          "price":"Rp83.050",
+          "product_url":"https://shopee.co.id/product/298322876/4654264914?smtt=0.274452124-1651082555.3",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":49,
+          "product_name":"MCB 4A 1P Domae Schneider",
+          "type":"MCB AC",
+          "merk":"Schneider",
+          "price":"Rp. 72.000",
+          "product_url":"https://www.tokopedia.com/quizele/mcb-4a-1p-domae-schneider-tipe-baru?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":50,
+          "product_name":"Schneider MCB Domae 1P 2A",
+          "type":"MCB AC",
+          "merk":"Schneider",
+          "price":"Rp. 64.500",
+          "product_url":"https://www.tokopedia.com/iv15/schneider-mcb-domae-1p-2a-4a-6a-10a-16a-20a-25a-32a-40a-mbc-ip-6a?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":51,
+          "product_name":"MCB BROCO 40A",
+          "type":"MCB AC",
+          "merk":"Broco",
+          "price":"Rp. 36.548",
+          "product_url":"https://www.tokopedia.com/cvsinarkurnia/mcb-broco-40a-broco-mcb-original?src=topads",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":52,
+          "product_name":"MCB Broco 1 Phase 1P 20A 25A",
+          "type":"MCB AC",
+          "merk":"Broco",
+          "price":"Rp. 35.000",
+          "product_url":"https://www.tokopedia.com/component-jaya/mcb-broco-1-phase-1p-20a-25a-20-ampere-25-ampere-20a?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":53,
+          "product_name":"BROCO MCB 1P 20 AMPERE SNI",
+          "type":"MCB AC",
+          "merk":"Broco",
+          "price":"Rp. 95.000",
+          "product_url":"https://www.tokopedia.com/suryakencanas/ac-broco-mcb-1p-20-ampere-sni?extParam=ivf%3Dfalse%26src%3Dsearch&refined=true",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":54,
+          "product_name":"BROCO MCB 1P C 10A 17310C",
+          "type":"MCB AC",
+          "merk":"Broco",
+          "price":"Rp. 34.500",
+          "product_url":"https://www.tokopedia.com/ruyigoldshop/broco-mcb-1p-c-10a-17310c-harga-grosir-sni-original-ori-murah?src=topads",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":55,
+          "product_name":"BROCO MCB 1P C 6A 17306C",
+          "type":"MCB AC",
+          "merk":"Broco",
+          "price":"Rp.32.500",
+          "product_url":"https://www.tokopedia.com/electricalshops/broco-mcb-1p-c-6a-17306c-harga-grosir-sni-original-ori-murah?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":56,
+          "product_name":"BROCO MCB 1 Phase 4A 17304C",
+          "type":"MCB AC",
+          "merk":"Broco",
+          "price":"Rp. 35.419",
+          "product_url":"https://www.tokopedia.com/albasiaelektrik/broco-mcb-1-phase-4a-17304c-mcb-broco-4ampere-1-phase?extParam=ivf%3Dfalse%26src%3Dsearch&refined=true&src=topads",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":57,
+          "product_name":"BROCO MCB 1P 2A 17302C",
+          "type":"MCB AC",
+          "merk":"Broco",
+          "price":"Rp. 35.000",
+          "product_url":"https://www.tokopedia.com/j99-4/broco-mcb-1p-2a-17302c-mcb-broco-1-phase-2-ampere?src=topads",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":58,
+          "product_name":"BROCO MCB 1P 4A",
+          "type":"MCB AC",
+          "merk":"Broco",
+          "price":"Rp. 38.200",
+          "product_url":"https://www.tokopedia.com/angelleostore/mcb-1phase-mcb-broco-1phase-mcb-4a-mcb-4-amper-broco-sni-original?src=topads",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":59,
+          "product_name":"MCB MERLIN GERIN 1P 2A",
+          "type":"MCB AC",
+          "merk":"Merlin",
+          "price":"Rp. 25.000",
+          "product_url":"https://tokopedia.link/ifKS7aGZzpb",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":60,
+          "product_name":"MCB MERLIN GERIN 1P 4A",
+          "type":"MCB AC",
+          "merk":"Merlin",
+          "price":"Rp. 25.000",
+          "product_url":"https://www.tokopedia.com/teknikbaru/mcb-multi9-merlin-gerin-4a-4-a-ampere-a-pln-cl4-900w-multi?utm_source=whatsapp&utm_medium=share&utm_campaign=PDP-0-403180018-280422",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":61,
+          "product_name":"MCB MERLIN GERIN 1P 6A",
+          "type":"MCB AC",
+          "merk":"Merlin",
+          "price":"Rp. 25.000",
+          "product_url":"https://www.tokopedia.com/teknikbaru/mcb-multi9-merlin-gerin-6a-6-a-ampere-a-pln-cl6?utm_source=salinlink&utm_medium=share&utm_campaign=PDP-0-376999173-280422",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":62,
+          "product_name":"MCB MERLIN GERIN 1P 10A",
+          "type":"MCB AC",
+          "merk":"Merlin",
+          "price":"Rp25.000",
+          "product_url":"https://www.tokopedia.com/teknikbaru/mcb-multi9-merlin-gerin-10a-10-a-ampere-a-pln-cl10-2200w-multi?utm_source=salinlink&utm_medium=share&utm_campaign=PDP-0-403181563-280422",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":63,
+          "product_name":"MCB MERLIN GERIN 1P 16A",
+          "type":"MCB AC",
+          "merk":"Merlin",
+          "price":"Rp26.000",
+          "product_url":"https://www.tokopedia.com/danyjayaabadi/mcb-1p-6a-10a-16a-20a-merlin-gerin?utm_source=whatsapp&utm_medium=share&utm_campaign=PDP-0-1399208612-280422",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":64,
+          "product_name":"MCB MERLIN GERIN 1P 20A",
+          "type":"MCB AC",
+          "merk":"Merlin",
+          "price":"Rp28.500",
+          "product_url":"https://shopee.co.id/product/29578263/5657594722?smtt=0.274452124-1651101656.9",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":65,
+          "product_name":"MCB MERLIN GERIN 1P 25A",
+          "type":"MCB AC",
+          "merk":"Merlin",
+          "price":"Rp23.750",
+          "product_url":"https://shopee.co.id/product/271715885/13822686543?smtt=0.274452124-1651101806.9",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":66,
+          "product_name":"MCB MERLIN GERIN 1P 32A",
+          "type":"MCB AC",
+          "merk":"Merlin",
+          "price":"Rp23.500",
+          "product_url":"https://shopee.co.id/product/65585378/11359149314?smtt=0.274452124-1651101924.9",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":67,
+          "product_name":"MCB Chint NXB 2P 6A 400 VDC",
+          "type":"MCB DC",
+          "merk":"Chint",
+          "price":"Rp. 68.300",
+          "product_url":"https://www.tokopedia.com/chint/mcb-chint-nxb-2p-6ka-6a-10a-16a-20a-25a-32a-40a-40a?src=topads",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":68,
+          "product_name":"MCB Chint NXB 2P 10A 400 VDC",
+          "type":"MCB DC",
+          "merk":"Chint",
+          "price":"Rp. 68.300",
+          "product_url":"https://www.tokopedia.com/chint/mcb-chint-nxb-2p-6ka-6a-10a-16a-20a-25a-32a-40a-40a?src=topads",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":69,
+          "product_name":"MCB Chint NXB 2P 16A 400 VDC",
+          "type":"MCB DC",
+          "merk":"Chint",
+          "price":"Rp. 68.300",
+          "product_url":"https://www.tokopedia.com/chint/mcb-chint-nxb-2p-6ka-6a-10a-16a-20a-25a-32a-40a-40a?src=topads",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":70,
+          "product_name":"MCB Chint NXB 2P 20A 400 VDC",
+          "type":"MCB DC",
+          "merk":"Chint",
+          "price":"Rp. 68.300",
+          "product_url":"https://www.tokopedia.com/chint/mcb-chint-nxb-2p-6ka-6a-10a-16a-20a-25a-32a-40a-40a?src=topads",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":71,
+          "product_name":"MCB Chint NXB 2P 25A 400 VDC",
+          "type":"MCB DC",
+          "merk":"Chint",
+          "price":"Rp. 68.300",
+          "product_url":"https://www.tokopedia.com/chint/mcb-chint-nxb-2p-6ka-6a-10a-16a-20a-25a-32a-40a-40a?src=topads",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":72,
+          "product_name":"MCB Chint NXB 2P 32A 400 VDC",
+          "type":"MCB DC",
+          "merk":"Chint",
+          "price":"Rp. 68.300",
+          "product_url":"https://www.tokopedia.com/chint/mcb-chint-nxb-2p-6ka-6a-10a-16a-20a-25a-32a-40a-40a?src=topads",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":73,
+          "product_name":"MCB Chint NXB 2P 40A 400VDC",
+          "type":"MCB DC",
+          "merk":"Chint",
+          "price":"Rp. 68.300",
+          "product_url":"https://www.tokopedia.com/chint/mcb-chint-nxb-2p-6ka-6a-10a-16a-20a-25a-32a-40a-40a?src=topads",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":74,
+          "product_name":"MCB DC 440 VDC 2A",
+          "type":"MCB DC",
+          "merk":"TOMZN",
+          "price":"Rp. 73.900",
+          "product_url":"https://www.tokopedia.com/suryapower/mcb-dc-440v-2p-6a-10a-16a-20a-25a-32a-40a-50a-63a-suryapower-6a?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":75,
+          "product_name":"MCB DC 440 VDC 4A",
+          "type":"MCB DC",
+          "merk":"TOMZN",
+          "price":"Rp. 73.900",
+          "product_url":"https://www.tokopedia.com/suryapower/mcb-dc-440v-2p-6a-10a-16a-20a-25a-32a-40a-50a-63a-suryapower-6a?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":76,
+          "product_name":"MCB DC 440 VDC 6A",
+          "type":"MCB DC",
+          "merk":"TOMZN",
+          "price":"Rp. 73.900",
+          "product_url":"https://www.tokopedia.com/suryapower/mcb-dc-440v-2p-6a-10a-16a-20a-25a-32a-40a-50a-63a-suryapower-6a?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":77,
+          "product_name":"MCB DC 440 VDC 10A",
+          "type":"MCB DC",
+          "merk":"TOMZN",
+          "price":"Rp. 73.900",
+          "product_url":"https://www.tokopedia.com/suryapower/mcb-dc-440v-2p-6a-10a-16a-20a-25a-32a-40a-50a-63a-suryapower-6a?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":78,
+          "product_name":"MCB DC 440 VDC 16A",
+          "type":"MCB DC",
+          "merk":"TOMZN",
+          "price":"Rp. 73.900",
+          "product_url":"https://www.tokopedia.com/suryapower/mcb-dc-440v-2p-6a-10a-16a-20a-25a-32a-40a-50a-63a-suryapower-6a?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":79,
+          "product_name":"MCB DC 440 VDC 16A",
+          "type":"MCB DC",
+          "merk":"TOMZN",
+          "price":"Rp. 73.900",
+          "product_url":"https://www.tokopedia.com/suryapower/mcb-dc-440v-2p-6a-10a-16a-20a-25a-32a-40a-50a-63a-suryapower-6a?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":80,
+          "product_name":"MCB DC 440 VDC 20A",
+          "type":"MCB DC",
+          "merk":"TOMZN",
+          "price":"Rp. 73.900",
+          "product_url":"https://www.tokopedia.com/suryapower/mcb-dc-440v-2p-6a-10a-16a-20a-25a-32a-40a-50a-63a-suryapower-6a?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":81,
+          "product_name":"MCB DC 440 VDC 25A",
+          "type":"MCB DC",
+          "merk":"TOMZN",
+          "price":"Rp. 73.900",
+          "product_url":"https://www.tokopedia.com/suryapower/mcb-dc-440v-2p-6a-10a-16a-20a-25a-32a-40a-50a-63a-suryapower-6a?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":82,
+          "product_name":"MCB DC 440 VDC 32A",
+          "type":"MCB DC",
+          "merk":"TOMZN",
+          "price":"Rp. 73.900",
+          "product_url":"https://www.tokopedia.com/suryapower/mcb-dc-440v-2p-6a-10a-16a-20a-25a-32a-40a-50a-63a-suryapower-6a?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":83,
+          "product_name":"MCB DC 440 VDC 40A",
+          "type":"MCB DC",
+          "merk":"TOMZN",
+          "price":"Rp. 73.900",
+          "product_url":"https://www.tokopedia.com/suryapower/mcb-dc-440v-2p-6a-10a-16a-20a-25a-32a-40a-50a-63a-suryapower-6a?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":84,
+          "product_name":"MCB DC 440 VDC 50A",
+          "type":"MCB DC",
+          "merk":"TOMZN",
+          "price":"Rp. 73.900",
+          "product_url":"https://www.tokopedia.com/suryapower/mcb-dc-440v-2p-6a-10a-16a-20a-25a-32a-40a-50a-63a-suryapower-6a?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":85,
+          "product_name":"MCB DC 440 VDC 63A",
+          "type":"MCB DC",
+          "merk":"TOMZN",
+          "price":"Rp. 73.900",
+          "product_url":"https://www.tokopedia.com/suryapower/mcb-dc-440v-2p-6a-10a-16a-20a-25a-32a-40a-50a-63a-suryapower-6a?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":86,
+          "product_name":"SPD DC 2P 1000v PV Surge Protection Device Arrester Surge Protector",
+          "type":"Surge Protection Device (DC)",
+          "merk":"Supoele",
+          "price":"Rp. 144.990",
+          "product_url":"https://www.tokopedia.com/haltebarang/spd-dc-2p-1000v-pv-surge-protection-device-arrester-surge-protector?src=topads",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":87,
+          "product_name":"DC SPD Surge Protection Device SUNTREE 2 Pole 500 VDC 20-40 kA",
+          "type":"Surge Protection Device (DC)",
+          "merk":"Suntree",
+          "price":"Rp. 238.000",
+          "product_url":"https://www.tokopedia.com/mutualismpowereng/dc-spd-surge-protection-device-suntree-2-pole-500-vdc-20-40-ka?extParam=ivf%3Dfalse",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":88,
+          "product_name":"Surge protection device MERSEN STPT2-40K75V-2PM Surge Trap",
+          "type":"Surge Protection Device (DC)",
+          "merk":"Mersen",
+          "price":"Rp. 665.000",
+          "product_url":"https://www.tokopedia.com/ria-electr1k/surge-protection-device-mersen-stpt2-40k75v-2pm-surge-trap?src=topads",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":89,
+          "product_name":"SPD SURGE PROTECTION DEVICE PV ANTI PETIR 2P DC Solar Panel Surya - 500VDC",
+          "type":"Surge Protection Device (DC)",
+          "merk":"Puddpow",
+          "price":"Rp. 145.000",
+          "product_url":"https://www.tokopedia.com/marchen/spd-surge-protection-device-pv-anti-petir-2p-dc-solar-panel-surya-500vdc?extParam=ivf%3Dfalse",
+          "image":"",
+          "current_type":"DC"
+       },
+       {
+          "id":90,
+          "product_name":"AC SPD 1P+N 275V 30 kA",
+          "type":"Surge Protection (AC)",
+          "merk":"Tomzn",
+          "price":"Rp272.000",
+          "product_url":"https://shopee.co.id/product/576457014/14479074044?smtt=0.274452124-1651112690.3",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":91,
+          "product_name":"AC SPD 1P 385V 10-20 kA",
+          "type":"Surge Protection (AC)",
+          "merk":"Tomzn",
+          "price":"Rp129.000",
+          "product_url":"https://shopee.co.id/product/720352965/17057095656?smtt=0.274452124-1651112481.3",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":92,
+          "product_name":"AC SPD 3P+N 385V 30-60 kA",
+          "type":"Surge Protection (AC)",
+          "merk":"Tomzn",
+          "price":"Rp698.000",
+          "product_url":"https://shopee.co.id/product/278074634/14979109576?smtt=0.274452124-1651112907.9",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":93,
+          "product_name":"AC SPD Surge Protection Device SUNTREE 1 Phase 275 V 20-40 kA",
+          "type":"Surge Protection (AC)",
+          "merk":"Suntree",
+          "price":"Rp. 152.000",
+          "product_url":"https://www.tokopedia.com/mutualismpowereng/ac-spd-surge-protection-device-suntree-1-phase-275-v-20-40-ka?extParam=ivf%3Dfalse",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":94,
+          "product_name":"AC SPD 2P 220V 20-40 kA",
+          "type":"Surge Protection (AC)",
+          "merk":"Taxnele",
+          "price":"Rp180.000",
+          "product_url":"https://shopee.co.id/product/159193946/12781023041?smtt=0.274452124-1651113396.3",
+          "image":"",
+          "current_type":"AC"
+       },
+       {
+          "id":95,
+          "product_name":"Connector MC4",
+          "type":"MC4 Connector",
+          "merk":"",
+          "price":"Rp. 6.900",
+          "product_url":"https://www.tokopedia.com/suryapower/mc4-connector-solar-panel-connector-30a-1000v-male-female-ip67?src=topads",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":96,
+          "product_name":"1 SET KUNCI MC4 CONNECTOR",
+          "type":"MC4 Connector",
+          "merk":"",
+          "price":"Rp. 11.000",
+          "product_url":"https://www.tokopedia.com/suryapower/1-set-kunci-mc4-connector-suryapower?src=topads",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":97,
+          "product_name":"Mounting / Bracket Solar PV / Solar Module / Panel Surya - Rail 2250mm",
+          "type":"Mounting",
+          "merk":"",
+          "price":"Rp. 180.000",
+          "product_url":"https://www.tokopedia.com/suryaglora-e/mounting-bracket-solar-pv-solar-module-panel-surya-rail-2250mm?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":98,
+          "product_name":"Mounting Solar PV / Solar Module / Panel Surya - Mid Clamp - 30mm",
+          "type":"Mounting",
+          "merk":"",
+          "price":"Rp. 11.000",
+          "product_url":"https://www.tokopedia.com/suryaglora-e/mounting-solar-pv-solar-module-panel-surya-mid-clamp-30mm?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":99,
+          "product_name":"Mounting Panel Surya/Solar Panel - End Clamp 35 mm & 40 mm",
+          "type":"Mounting",
+          "merk":"",
+          "price":"Rp. 14.000",
+          "product_url":"https://www.tokopedia.com/mutualismpowereng/mounting-panel-surya-solar-panel-end-clamp-35-mm-40-mm?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"ALL"
+       },
+       {
+          "id":100,
+          "product_name":"Mounting Solar PV / Solar Module / Panel Surya - Adj. Tile Hook - Horizontal, Baut Baja",
+          "type":"Mounting",
+          "merk":"",
+          "price":"Rp. 100.000",
+          "product_url":"https://www.tokopedia.com/suryaglora-e/mounting-solar-pv-solar-module-panel-surya-adj-tile-hook-horizontal-baut-baja?extParam=ivf%3Dfalse%26src%3Dsearch",
+          "image":"",
+          "current_type":"ALL"
+       }
+    ]
+ }
